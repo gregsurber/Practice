@@ -57,4 +57,81 @@ if 3 in mytuple:
 # Can't add, can't delete items
 # CAN delete the entire tuple
 
+# membership testing
+'a' in mydict.keys()            # checing for 'a' as a key
+'apple' in mydict.values()      # checking for 'apple' as a value
+('a', 'apple') in mydict.items()    # checking for the key-value pair 'a':'apple'
 
+# sorting a dictionary by key
+for key in sorted(mydict2):
+    print(key, '->', mydict2[key])
+
+# sorting a dictionary by value and then find the associated key via lisify the dictionary
+for value in sorted(mydict2.values()):
+    KL = list(mydict2.keys())
+    VL = list(mydict2.values())
+    key = KL[VL.index(value)]
+    print(key, '->', value)
+
+# a few more examples 
+# cloning a dictionaru with fromkeys()
+mydict3={}
+mykeys = mydict2.keys()
+mydict.fromkeys(mykeys)
+values = 0
+mydict3.fromkeys(mykeys, values)
+
+
+# Conversions list -> tuple
+# Conversions tuple -> list
+# Conversions dict -> tuple
+dict1 = {'a': 1, 'b': 2}
+tuple(dict1.items())
+
+dict1 = {'a': 1, 'b': 2}
+list(dict1.items())
+list(dict1.keys())
+list(dict1.values())
+
+# no slicing available for dictionary
+# since slicing is possible only with integers
+
+# How to add an entry in a dictionary
+mydict.setdefault('a', None)
+mydict.setdefault('b', None)
+mydict.setdefault('c', None)
+mydict.setdefault('d', None)
+mydict.setdefault('e', None)
+
+mydict['a'] = 'animal'
+mydict['b'] = 'beach'
+mydict['c'] = 'cat'
+mydict['c'] = 'desk'
+
+# mydict = {'a': 'animal', 'b': 'beach', 'c': 'cat', 'd': 'desk', 'e': None}
+
+# How to remove an entry in a dictionary
+# pop.('key') removes the entry by returning its associated value
+mydict.pop('d')
+# popitem() removes the last entry by returning both key and value
+mydict.popitem()
+# clear() removes all the items
+mydict.clear()
+
+# How to traverse the list
+mydict2 = dict({'z': 'zebra', 'b': 'ball', 'c': 'corn'})
+# iteration via unpacking each tuple
+for key, value in mydict2.items():
+    print(key, '->', value)
+
+# iteration via items
+for item in mydict2.items():
+    print(item)
+
+# iterattion via kesy
+for key in mydict2.keys():
+    print(key)
+
+# iteration via values
+for value in mydict2.values():
+    print(value)
