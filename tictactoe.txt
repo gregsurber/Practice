@@ -1,0 +1,121 @@
+
+
+["Player 'X' played in square: 1"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 9"]
+['Computer played in square: 2']
+["Player 'X' played in square: 3"]
+['Computer played in square: 4']
+["Player 'X' played in square: 6"]
+["Player 'X' has won!"]
+
+
+["Player 'X' played in square: 1"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 3"]
+['Computer played in square: 2']
+["Player 'X' played in square: 4"]
+['Computer played in square: 6']
+["Player 'X' played in square: 7"]
+["Player 'X' has won!"]
+
+
+["Player 'X' played in square: 1"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 9"]
+['Computer played in square: 2']
+["Player 'X' played in square: 3"]
+['Computer played in square: 4']
+["Player 'X' played in square: 6"]
+["Player 'X' has won!"]
+
+
+["Player 'X' played in square: 1"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 9"]
+['Computer played in square: 2']
+["Player 'X' played in square: 4"]
+['Computer played in square: 3']
+["Player 'X' played in square: 7"]
+["Player 'X' has won!"]
+
+
+["Player 'X' played in square: 1"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 9"]
+['Computer played in square: 2']
+["Player 'X' played in square: 7"]
+['Computer played in square: 3']
+["Player 'X' played in square: 4"]
+["Player 'X' has won!"]
+
+
+["Player 'X' played in square: 1"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 7"]
+['Computer played in square: 2']
+["Player 'X' played in square: 5"]
+['Computer played in square: 3']
+["Player 'X' played in square: 6"]
+['Computer played in square: 4']
+["Player 'X' played in square: 9"]
+['Computer played in square: 8']
+["Player 'O' has won!"]
+
+
+["Player 'X' played in square: 1"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 9"]
+['Computer played in square: 2']
+["Player 'X' played in square: 8"]
+['Computer played in square: 3']
+["Player 'X' played in square: 7"]
+["Player 'X' has won!"]
+
+
+["Player 'X' played in square: 1"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 9"]
+['Computer played in square: 2']
+["Player 'X' played in square: 7"]
+['Computer played in square: 3']
+["Player 'X' played in square: 4"]
+["Player 'X' has won!"]
+
+
+["Player 'X' played in square: 1"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 7"]
+['Computer played in square: 2']
+["Player 'X' played in square: 4"]
+["Player 'X' has won!"]
+
+
+['Computer played in square: 5 ']
+['Computer played in square: 5 ']
+["Player 'X' played in square: 1"]
+['Computer played in square: 5 ']
+['Computer played in square: 2']
+['Computer played in square: 3']
+["Player 'X' played in square: 3"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 7"]
+['Computer played in square: 1']
+["Player 'X' played in square: 1"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 9"]
+['Computer played in square: 2']
+["Player 'X' played in square: 7"]
+['Computer played in square: 3']
+["Player 'X' played in square: 4"]
+["Player 'X' has won!"]
+
+
+["Player 'X' played in square: 4"]
+['Computer played in square: 5 ']
+["Player 'X' played in square: 1"]
+['Computer played in square: 2']
+["Player 'X' played in square: 7"]
+["Player 'X' has won!"]
+
+
